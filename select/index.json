@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "デイドリーム",
+  "base_artist": "reGretGirl",
+  "createdAt": "2026-03-19T03:56:25.125893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デイドリーム・ビリーバー",
+      "artist": "モンキーズ",
+      "has_synced": false,
+      "path": "select/01_デイドリーム・ビリーバー_モンキーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロックンロール・デイドリーム",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/02_ロックンロール・デイドリーム_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロックンロール・デイドリーム",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/03_ロックンロール・デイドリーム_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デイドリーム",
+      "artist": "reGretGirl",
+      "has_synced": true,
+      "path": "select/04_デイドリーム_reGretGirl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まなざし☆デイドリーム",
+      "artist": "Yu Sakai",
+      "has_synced": false,
+      "path": "select/05_まなざし☆デイドリーム_Yu_Sakai.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "デイドリーム",
+      "artist": "Twenty Nine Teens",
+      "has_synced": true,
+      "path": "select/06_デイドリーム_Twenty_Nine_Teens.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "デイドリーム ビリーヴァー",
+      "artist": "FLOW x ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/07_デイドリーム_ビリーヴァー_FLOW_x_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "デイドリーム ビリーヴァー",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/08_デイドリーム_ビリーヴァー_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "デイドリーム ビリーヴァー (Instrumental)",
+      "artist": "FLOW×ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/09_デイドリーム_ビリーヴァー_(Instrumental)_FLOW×ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロックンロール・デイドリーム [Rock 'n' Roll Daydream]",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/10_ロックンロール・デイドリーム_[Rock_'n'_Roll_Daydream]_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "デイドリーム",
+      "artist": "Twenty Nine Teens",
+      "has_synced": false,
+      "path": "select/11_デイドリーム_Twenty_Nine_Teens.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "デイドリーム　ジェネレーション",
+      "artist": "馬渡松子",
+      "has_synced": true,
+      "path": "select/12_デイドリーム_ジェネレーション_馬渡松子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "デイドリーム",
+      "artist": "赤い公園",
+      "has_synced": true,
+      "path": "select/13_デイドリーム_赤い公園.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デイドリーム",
+      "artist": "reGretGirl",
+      "has_synced": false,
+      "path": "select/pl_01_デイドリーム_reGretGirl.txt"
+    }
+  ]
+}
